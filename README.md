@@ -1,9 +1,6 @@
 <h1 align="center">Hi 🫡 I'm Bastián Alvarado</h1>
 
-<hr/>
-
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzByaGRsZ2NkaXM3OTdkeG15eW1iOWs4OWN5MzZwaHdsMzd0MGsxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9VYEBjVz79dy8/giphy.gif" width="150"/>
-<br/>
 
 - ⌛ I'm 22 years old
 - 💻 Computer Engineer
@@ -11,6 +8,7 @@
 - 📫 How to contact me **ba.alvarado@hotmail.com**
 
 <br/>
+
 <h2 align="center">My Skills</h2>
 
 <h4 align="center">Programming languages</h4>
