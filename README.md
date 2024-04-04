@@ -18,7 +18,7 @@
 <p align="center">
 <a href="https://www.w3schools.com/html/" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
 <a href="https://www.w3schools.com/css/default.asp" target="_blank"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
-<a href="https://www.w3schools.com/java/default.asp" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=whit"></a>
+<a href="https://www.w3schools.com/java/default.asp" target="_blank"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white%22"></a>
 <a href="https://www.w3schools.com/js/default.asp" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
 <a href="https://www.w3schools.com/python/default.asp" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
 <a href="https://www.w3schools.com/sql/default.asp" target="_blank"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?style=for-the-badge&logo=database&logoColor=white"></a>
