@@ -8,11 +8,6 @@
 
 - 📫 How to contact me **ba.alvarado@hotmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bastian-alvarado-garrido" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="bastian-alvarado-garrido" height="30" width="40" /></a>
-</p>
-
 <br/>
 
 <br/>
