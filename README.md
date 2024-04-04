@@ -1,16 +1,12 @@
 <h1 align="center">Hi 🫡 I'm Bastián Alvarado</h1>
-<h3 align="center">A Computer Engineer</h3>
-
-<hr/>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWNkMWU0bnpra2UzNzJwbWxzOW94a2VtaTNoMHl0dWRpdGZtcHN4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzByaGRsZ2NkaXM3OTdkeG15eW1iOWs4OWN5MzZwaHdsMzd0MGsxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9VYEBjVz79dy8/giphy.gif" width="200"/>
 </div>
 
-- 📫 How to contact me **ba.alvarado@hotmail.com**
-
-
-
+- ⌛ I'm 22 years old
+- 💻 I'm Computer Engineer
+- 🕹️ I love play videogames and dragon ball 🐲
 - 📫 How to contact me **ba.alvarado@hotmail.com**
 
 <br/>
