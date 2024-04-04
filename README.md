@@ -2,8 +2,8 @@
 
 <hr/>
 
-<div align="right">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzByaGRsZ2NkaXM3OTdkeG15eW1iOWs4OWN5MzZwaHdsMzd0MGsxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9VYEBjVz79dy8/giphy.gif" width="150"/>
+<div>
+  <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzByaGRsZ2NkaXM3OTdkeG15eW1iOWs4OWN5MzZwaHdsMzd0MGsxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9VYEBjVz79dy8/giphy.gif" width="150"/>
 
 - ⌛ I'm 22 years old
 - 💻 Computer Engineer
