@@ -6,6 +6,7 @@
 💻 Computer Engineer<br/>
 🕹️ I love play videogames and dragon ball 🐲<br/>
 📫 How to contact me: **ba.alvarado@hotmail.com**<br/>
+🎯 See my portfolio here: https://bastian-alvarado.netlify.app/<br/>
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzByaGRsZ2NkaXM3OTdkeG15eW1iOWs4OWN5MzZwaHdsMzd0MGsxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9VYEBjVz79dy8/giphy.gif" width="140"/>
 
