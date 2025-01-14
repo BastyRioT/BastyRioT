@@ -2,7 +2,7 @@
 
 <div align='center'>
 
-⌛ I'm 22 years old<br/>
+⌛ I'm 23 years old<br/>
 💻 Computer Engineer<br/>
 🕹️ I love play videogames and dragon ball 🐲<br/>
 📫 How to contact me: **ba.alvarado@hotmail.com**<br/>
